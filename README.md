@@ -1,14 +1,12 @@
 # Hi, I'm Eyad 👋
 
-Computer Science student passionate about Cybersecurity, building practical skills through hands-on labs, security projects, and continuous learning.
+Computer Science student passionate about Cybersecurity, developing practical skills through hands-on labs, security projects, and continuous learning.
 
 ---
 
 ## 🎯 Current Focus
-
-- Google Cybersecurity Professional Certificate
-- eJPTv2
 - Penetration Testing
+- Bug Bounty
 - Network Security
 - Linux
 - Python
@@ -17,7 +15,7 @@ Computer Science student passionate about Cybersecurity, building practical skil
 
 ## 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" />
 
 **Cybersecurity:** Nmap • Wireshark • Metasploit
 
@@ -25,5 +23,5 @@ Computer Science student passionate about Cybersecurity, building practical skil
 
 ## 📫 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/eyadossama
-- 🎯 TryHackMe: https://tryhackme.com/p/EyadooZ
+- 💼 [LinkedIn](https://www.linkedin.com/in/eyadossama)
+- 🎯 [TryHackMe](https://tryhackme.com/p/EyadooZ)
